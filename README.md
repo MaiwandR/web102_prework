@@ -24,7 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://www.loom.com/share/262d9847eaa346b1ba42bce1390920d8?sid=3eb3877a-bf73-4da6-9eb4-2ca86bec4573)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='[http://i.imgur.com/link/to/your/gif/file.gif](https://www.loom.com/share/262d9847eaa346b1ba42bce1390920d8?sid=3eb3877a-bf73-4da6-9eb4-2ca86bec4573)'>
+    <img src='' width='' alt='Video Walkthrough' />
+</a>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom
