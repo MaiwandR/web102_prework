@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaMonster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Maiwand Raheem
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+FundSource is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **X** hours spent in total
 
